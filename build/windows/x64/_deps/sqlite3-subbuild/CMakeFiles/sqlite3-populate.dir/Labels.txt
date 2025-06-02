@@ -1,0 +1,14 @@
+# Target labels
+ sqlite3-populate
+# Source files and their labels
+C:/Users/Amir/Desktop/Farahi Exam/exam_gold_store_app/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/sqlite3-populate
+C:/Users/Amir/Desktop/Farahi Exam/exam_gold_store_app/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/b5fa1200f84354301edea91e6c3308b4/sqlite3-populate.rule
+C:/Users/Amir/Desktop/Farahi Exam/exam_gold_store_app/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/264111e1fd2a989ef2055856c1f1d55a/sqlite3-populate-complete.rule
+C:/Users/Amir/Desktop/Farahi Exam/exam_gold_store_app/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/b2d83e786d14ec855788b82b0ab6ebf1/sqlite3-populate-build.rule
+C:/Users/Amir/Desktop/Farahi Exam/exam_gold_store_app/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/b2d83e786d14ec855788b82b0ab6ebf1/sqlite3-populate-configure.rule
+C:/Users/Amir/Desktop/Farahi Exam/exam_gold_store_app/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/b2d83e786d14ec855788b82b0ab6ebf1/sqlite3-populate-download.rule
+C:/Users/Amir/Desktop/Farahi Exam/exam_gold_store_app/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/b2d83e786d14ec855788b82b0ab6ebf1/sqlite3-populate-install.rule
+C:/Users/Amir/Desktop/Farahi Exam/exam_gold_store_app/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/b2d83e786d14ec855788b82b0ab6ebf1/sqlite3-populate-mkdir.rule
+C:/Users/Amir/Desktop/Farahi Exam/exam_gold_store_app/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/b2d83e786d14ec855788b82b0ab6ebf1/sqlite3-populate-patch.rule
+C:/Users/Amir/Desktop/Farahi Exam/exam_gold_store_app/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/b2d83e786d14ec855788b82b0ab6ebf1/sqlite3-populate-test.rule
+C:/Users/Amir/Desktop/Farahi Exam/exam_gold_store_app/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/b2d83e786d14ec855788b82b0ab6ebf1/sqlite3-populate-update.rule

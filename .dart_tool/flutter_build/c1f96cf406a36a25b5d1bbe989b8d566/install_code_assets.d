@@ -1,0 +1,1 @@
+ C:\\Users\\Amir\\Desktop\\Farahi\ Exam\\exam_gold_store_app\\.dart_tool\\flutter_build\\c1f96cf406a36a25b5d1bbe989b8d566\\native_assets.json: 

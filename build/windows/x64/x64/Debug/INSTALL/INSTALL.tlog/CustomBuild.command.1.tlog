@@ -1,0 +1,10 @@
+^C:\USERS\AMIR\DESKTOP\FARAHI EXAM\EXAM_GOLD_STORE_APP\BUILD\WINDOWS\X64\CMAKEFILES\381F6E63B63ED4151C719C95D4732702\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

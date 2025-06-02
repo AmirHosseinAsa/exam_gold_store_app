@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Amir\Desktop\Farahi Exam\exam_gold_store_app\build\windows\x64\_deps\sqlite3-subbuild\CMakeFiles\b5fa1200f84354301edea91e6c3308b4\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F35FC51D-1E46-358C-9F79-29B4B0793788}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
