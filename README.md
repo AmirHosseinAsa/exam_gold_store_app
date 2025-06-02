@@ -11,8 +11,8 @@
     <td><img src="https://github.com/user-attachments/assets/28c4aa2c-e524-41e1-8b65-b105def8ddf0" alt="Screenshot from 2025-06-02 20-12-18" width="100%"></td>
   </tr>
    <tr>
-    <td><img src="https://github.com/user-attachments/assets/deaf42b7-917c-41fe-9b7b-5cf63af10189" alt="Screenshot from 2025-06-02 20-19-30" width="50%"></td>
-    <td><img src="https://github.com/user-attachments/assets/28c4aa2c-e524-41e1-8b65-b105def8ddf0" alt="Screenshot from 2025-06-02 20-12-18" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/deaf42b7-917c-41fe-9b7b-5cf63af10189" alt="Screenshot from 2025-06-02 20-19-30" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/e7bfb4ae-e9bc-42f0-bf58-213f16ba8f37" alt="Screenshot from 2025-06-02 20-12-18" width="100%"></td>
   </tr>
   
 </table>
